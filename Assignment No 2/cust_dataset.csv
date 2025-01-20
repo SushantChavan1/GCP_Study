@@ -1,0 +1,9 @@
+Customer_ID,Name,Email,Phone,Address,Purchase_Amount,Join_Date
+101,Alice,alice@example.com,1234567890,"123 Elm St, NY",250.75,2023-01-15
+102,Bob,bob@example.com,9876543210,,,2023-03-10
+103,Charlie,,123 456 7890,"456 Oak St, CA",130.5,2023-05-20
+104,David,david@example.com,,"789 Pine St, TX",400.0,2023-07-18
+105,Eve,eve@example.com,987 654 3210,,275.25,2023-09-12
+106,,grace@example.com,1234567890,"321 Maple St, FL",150.0,2023-11-05
+107,Grace,,,"654 Birch St, IL",,
+108,Heidi,heidi@example.com,9876543210,,500.0,2024-01-08

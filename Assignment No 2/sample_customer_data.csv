@@ -1,0 +1,9 @@
+CustomerID,Name,Email,PhoneNumber,Address,Purchases
+101.0,Alice ,alice@example.com,+1-555-234567,123 Elm St.,150.0
+102.0, BOB,,,,200.0
+103.0,charlie,charlie@example.com,555-345678,456 Oak St.,
+104.0,David,david@example,+1 555 456789,789 Pine St.,350.0
+105.0,,,,101 Maple St.,400.0
+106.0,Eva,eva@,555 567890,,
+107.0,Frank,frank@sample.com,555-678901,202 Birch St.,100.0
+,Gina,,555789012,303 Cedar St.,50.0
