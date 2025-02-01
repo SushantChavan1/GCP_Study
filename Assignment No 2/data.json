@@ -1,0 +1,113 @@
+[
+    {
+      "Vehicle_ID": 1,
+      "Brand": "Tesla",
+      "Model": "Model S",
+      "Year": 2023,
+      "Battery_Capacity_kWh": 100,
+      "Range_km": 652,
+      "Charging_Time_hr": 1.5,
+      "Price_USD": 89990,
+      "Efficiency_km_per_kWh": 6.52
+    },
+    {
+      "Vehicle_ID": 2,
+      "Brand": "Nissan",
+      "Model": "Leaf",
+      "Year": 2022,
+      "Battery_Capacity_kWh": 40,
+      "Range_km": 270,
+      "Charging_Time_hr": 0.5,
+      "Price_USD": 32000,
+      "Efficiency_km_per_kWh": 6.75
+    },
+    {
+      "Vehicle_ID": 3,
+      "Brand": "Chevrolet",
+      "Model": "Bolt EV",
+      "Year": 2023,
+      "Battery_Capacity_kWh": 65,
+      "Range_km": 417,
+      "Charging_Time_hr": 0.75,
+      "Price_USD": 37000,
+      "Efficiency_km_per_kWh": 6.42
+    },
+    {
+      "Vehicle_ID": 4,
+      "Brand": "BMW",
+      "Model": "i3",
+      "Year": 2021,
+      "Battery_Capacity_kWh": 42,
+      "Range_km": 260,
+      "Charging_Time_hr": 0.6,
+      "Price_USD": 44500,
+      "Efficiency_km_per_kWh": 6.19
+    },
+    {
+      "Vehicle_ID": 5,
+      "Brand": "Ford",
+      "Model": "Mach-E",
+      "Year": 2023,
+      "Battery_Capacity_kWh": 88,
+      "Range_km": 491,
+      "Charging_Time_hr": 1.2,
+      "Price_USD": 63500,
+      "Efficiency_km_per_kWh": 5.58
+    },
+    {
+      "Vehicle_ID": 6,
+      "Brand": "Hyundai",
+      "Model": "Kona Electric",
+      "Year": 2022,
+      "Battery_Capacity_kWh": 64,
+      "Range_km": 482,
+      "Charging_Time_hr": 1.1,
+      "Price_USD": 38500,
+      "Efficiency_km_per_kWh": 7.53
+    },
+    {
+      "Vehicle_ID": 7,
+      "Brand": "Kia",
+      "Model": "EV6",
+      "Year": 2023,
+      "Battery_Capacity_kWh": 77,
+      "Range_km": 528,
+      "Charging_Time_hr": 1.2,
+      "Price_USD": 47000,
+      "Efficiency_km_per_kWh": 6.86
+    },
+    {
+      "Vehicle_ID": 8,
+      "Brand": "Volkswagen",
+      "Model": "ID.4",
+      "Year": 2023,
+      "Battery_Capacity_kWh": 82,
+      "Range_km": 520,
+      "Charging_Time_hr": 1.3,
+      "Price_USD": 43500,
+      "Efficiency_km_per_kWh": 6.34
+    },
+    {
+      "Vehicle_ID": 9,
+      "Brand": "Rivian",
+      "Model": "R1T",
+      "Year": 2023,
+      "Battery_Capacity_kWh": 135,
+      "Range_km": 505,
+      "Charging_Time_hr": 2.0,
+      "Price_USD": 73000,
+      "Efficiency_km_per_kWh": 3.74
+    },
+    {
+      "Vehicle_ID": 10,
+      "Brand": "Lucid",
+      "Model": "Air",
+      "Year": 2023,
+      "Battery_Capacity_kWh": 118,
+      "Range_km": 830,
+      "Charging_Time_hr": 2.1,
+      "Price_USD": 139000,
+      "Efficiency_km_per_kWh": 7.03
+    }
+  ]
+  
