@@ -1,0 +1,26 @@
+
+from google.cloud import bigquery
+from google.oauth2 import service_account
+
+# Set the path to your service account key JSON file
+service_account_path = "bigqueryjsonfile.json"
+credentials = service_account.Credentials.from_service_account_file(service_account_path)
+
+# Construct a BigQuery client object.
+client = bigquery.Client(
+    credentials=credentials,
+    project=credentials.project_id,
+)
+
+# Set table_id to the ID of the model to fetch.
+table_id = 'root-wharf-441908-f0.demosql.sales_summary'
+
+table = client.get_table(table_id)  # Make an API request.
+
+# View table properties
+print(
+    "Got table '{}.{}.{}'.".format(table.project, table.dataset_id, table.table_id)
+)
+print("Table schema: {}".format(table.schema))
+print("Table description: {}".format(table.description))
+print("Table has {} rows".format(table.num_rows))
